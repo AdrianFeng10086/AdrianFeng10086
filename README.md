@@ -45,10 +45,6 @@
 
 面向智能客服场景的 Python 项目，用于实践对话流程、业务问答和 AI 服务集成。
 
-### [homework](https://github.com/AdrianFeng10086/homework)
-
-使用 Vue 开发的课程与前端实践项目，用于积累页面开发和交互实现经验。
-
 ## 竞赛与科研经历
 
 - 第十七届中国大学生服务外包创新创业大赛中部区域赛企业命题类**三等奖**
@@ -59,7 +55,6 @@
 - 2025年(第二十届)海峡两岸暨港澳地区大学生计算机创新作品赛广东省赛**优秀奖**
 - 参与“智慧护农”项目，进入 2026 年广东省科技创新战略专项资金大学生科技创新培育拟立项项目名单
 - 论文 **An AI-Driven Psychological Support System for Rural Children: Integrating SFBT Dialogue State Machines with Retrieval-Augmented Generation** 获 EDCS 2026 录用
-- 完成 AI 多模态智能项目培训，40 学时并通过考核
 
 ## 当前学习重点
 
